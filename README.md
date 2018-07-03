@@ -10,3 +10,6 @@ Installation
 Usage
 1. Run python3 stock_price_predictor.py to train the model.
 2. Run python3 predictor.py to predict.
+
+Results 
+Open Figure_1.png
