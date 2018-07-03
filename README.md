@@ -12,6 +12,4 @@ Created a stock price predictor to predict stock price of Google for june 2018.
 2. Run python3 predictor.py to predict.
 
 # Results 
-Open Figure_1.png
-
 ![figure_1](https://user-images.githubusercontent.com/30264166/42206955-458b5348-7ec6-11e8-9bbf-3b3065f37a8a.png)
