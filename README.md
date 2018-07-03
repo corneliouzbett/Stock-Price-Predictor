@@ -13,3 +13,4 @@ Usage
 
 Results 
 Open Figure_1.png
+![alt text](https://raw.githubusercontent.com/soumilkanwal80/Stock-Price-Predictor/master/path/to/Figure_1.png)
